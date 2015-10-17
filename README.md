@@ -1,5 +1,5 @@
 # SimpleNodeServer
-Basic node server example
+Basic node server example taken from the [blog](http://blog.modulus.io/build-your-first-http-server-in-nodejs)
 
 Assume node and npm (node package manager) is already installed
 
