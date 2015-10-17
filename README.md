@@ -18,7 +18,7 @@ $ npm install httpdispatcher
 ##Run server
 
 ```sh
-$node server.js
+$ node server.js
 ```
 
 ##Test GET
