@@ -15,8 +15,19 @@ $ git clone https://github.com/adious/SimpleNodeServer.git
 $ npm install httpdispatcher
 ```
 
-##Run server with following command
+##Run server
 
 ```sh
 $node server.js
 ```
+
+##Test GET
+```sh
+$http://localhost:23455/page1
+```
+
+##Test POST
+```sh
+$http://localhost:23455/post1
+```
+
