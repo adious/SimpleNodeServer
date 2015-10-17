@@ -23,11 +23,11 @@ $node server.js
 
 ##Test GET
 ```sh
-$http://localhost:23455/page1
+$ http://localhost:23455/page1
 ```
 
 ##Test POST
 ```sh
-$http://localhost:23455/post1
+$ http://localhost:23455/post1
 ```
 
